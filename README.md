@@ -24,6 +24,8 @@ DB_USER='root'
 DB_PW='xxx'
 
 ## App Demo
+Demo-1: https://drive.google.com/file/d/1iKh8w1olmKUUV9pnIIFiNEf1H2fhnDsZ/view?usp=sharing
+
 •	Create Schema and Seed data
 •	GET routes to return all categories, all products
 •	GET routes to return a single category, a single product, and a single tag
