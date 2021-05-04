@@ -24,7 +24,9 @@ DB_USER='root'
 DB_PW='xxx'
 
 ## App Demo
-Demo-1: https://drive.google.com/file/d/1iKh8w1olmKUUV9pnIIFiNEf1H2fhnDsZ/view?usp=sharing
+Demo-1: To create Schema from mysql CLI: https://drive.google.com/file/d/1L05jBwdA4OMIOeQ5WCjPDkn7vP8h9amv/view?usp=sharing
+
+Demo-2: https://drive.google.com/file/d/1iKh8w1olmKUUV9pnIIFiNEf1H2fhnDsZ/view?usp=sharing
 
 •	Create Schema and Seed data
 •	GET routes to return all categories, all products
