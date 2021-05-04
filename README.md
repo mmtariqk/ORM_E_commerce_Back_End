@@ -1,7 +1,7 @@
 ### Object Relational Mapping (ORM): E-commerce Back End
 
 ## Walkthrough Videos 
-(Because of screencastify free limit 5 min, I created two parts)
+(Because of screencastify free video 5 minlimit , I created two videos)
 
 ## Video-1-of-2: 
 https://drive.google.com/file/d/1m1oBN_lcmUC09epMJPVgt-JLSknCj5DN/view?usp=sharing
