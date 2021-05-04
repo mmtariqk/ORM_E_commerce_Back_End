@@ -41,3 +41,5 @@ Demo-1: To create Schema from mysql CLI: https://drive.google.com/file/d/1L05jBw
 •	POST, PUT, and DELETE routes for products
 
 ## Screenshots
+
+<img width="1358" alt="Screen Shot 2021-05-04 at 12 29 28 AM" src="https://user-images.githubusercontent.com/77028806/116972491-eea3ed80-ac6f-11eb-8d15-1847156e4440.png">
