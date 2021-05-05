@@ -59,10 +59,12 @@ Got All Tags:
 
 <img width="788" alt="Screen Shot 2021-05-04 at 11 30 56 PM" src="https://user-images.githubusercontent.com/77028806/117104523-2161ea80-ad31-11eb-8a65-3db9c6cedbe2.png">
 
-Got Single Category by ID:
+  Got Single Category Route by ID:
 <img width="385" alt="Screen Shot 2021-05-04 at 11 37 44 PM" src="https://user-images.githubusercontent.com/77028806/117105348-b1ecfa80-ad32-11eb-907e-04ef98bb2c23.png">
 
+  Got Single Product Route by ID:
 <img width="384" alt="Screen Shot 2021-05-04 at 11 38 10 PM" src="https://user-images.githubusercontent.com/77028806/117105357-b7e2db80-ad32-11eb-822a-baf8e0027083.png">
 
+  Got Single Tag Route by ID:
 <img width="580" alt="Screen Shot 2021-05-04 at 11 38 36 PM" src="https://user-images.githubusercontent.com/77028806/117105382-c0d3ad00-ad32-11eb-84c9-7fc24338e162.png">
 
