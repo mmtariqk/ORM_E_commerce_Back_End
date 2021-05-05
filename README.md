@@ -31,10 +31,13 @@ DB_USER='root'
 DB_PW='xxx'
 
 ## App Gif Demo Animations:
-Demo-1: Created Schema from mysql CLI: 
+Demo-1: Created Schema from mysql CLI:
+
 https://drive.google.com/file/d/1L05jBwdA4OMIOeQ5WCjPDkn7vP8h9amv/view
+
 Demo-2: Seed Data:                 :  
 https://drive.google.com/file/d/1Zz2X9Hcjsieqt3KVgFsD9DLFStzBH-Dj/view
+
 Demo-3: POST, PUT, and DELETE routes for products: 
 https://drive.google.com/file/d/1LIrKfP_vQCUwYf8FdT5CW5O838ZRqlri/view
 
