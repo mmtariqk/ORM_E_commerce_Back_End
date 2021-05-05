@@ -43,6 +43,11 @@ Demo-3: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for products:
 
 https://drive.google.com/file/d/1LIrKfP_vQCUwYf8FdT5CW5O838ZRqlri/view
 
+Demo-4: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for categories:
+
+https://drive.google.com/file/d/1sa9BvL1GXwDFwJ5gb_G3YhWY_z1DxyAw/view
+
+
 •	Create Schema and Seed data
 •	GET routes to return all categories, all products
 •	GET routes to return a single category, a single product, and a single tag
