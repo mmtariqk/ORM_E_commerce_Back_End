@@ -39,7 +39,7 @@ Demo-2: Seed Data:
   
 https://drive.google.com/file/d/1Zz2X9Hcjsieqt3KVgFsD9DLFStzBH-Dj/view
 
-Demo-3: POST, PUT, and DELETE routes for products: 
+Demo-3: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for products: 
 
 https://drive.google.com/file/d/1LIrKfP_vQCUwYf8FdT5CW5O838ZRqlri/view
 
