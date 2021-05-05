@@ -43,3 +43,6 @@ Demo-1: To create Schema from mysql CLI: https://drive.google.com/file/d/1L05jBw
 ## Screenshots
 
 <img width="1358" alt="Screen Shot 2021-05-04 at 12 29 28 AM" src="https://user-images.githubusercontent.com/77028806/116972491-eea3ed80-ac6f-11eb-8d15-1847156e4440.png">
+
+<img width="1249" alt="run-seeds" src="https://user-images.githubusercontent.com/77028806/117103517-58cf9780-ad2f-11eb-8ddf-8fbb791d8b8d.png">
+
