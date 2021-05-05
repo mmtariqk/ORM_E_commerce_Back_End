@@ -39,13 +39,17 @@ Demo-2: Seed Data:
   
 https://drive.google.com/file/d/1Zz2X9Hcjsieqt3KVgFsD9DLFStzBH-Dj/view
 
-Demo-3: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for products: 
+Demo-3: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for Products: 
 
 https://drive.google.com/file/d/1LIrKfP_vQCUwYf8FdT5CW5O838ZRqlri/view
 
-Demo-4: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for categories:
+Demo-4: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for Categories:
 
 https://drive.google.com/file/d/1sa9BvL1GXwDFwJ5gb_G3YhWY_z1DxyAw/view
+
+
+Demo-5: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for Tags:
+file:///Users/tariq/Downloads/Untitled_%20May%205,%202021%201_16%20AM.webm
 
 
 •	Create Schema and Seed data
