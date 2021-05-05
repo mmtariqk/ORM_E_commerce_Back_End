@@ -30,9 +30,9 @@ DB_NAME='ecommerce_db'
 DB_USER='root'
 DB_PW='xxx'
 
-## App Demo
+## App Gif Demo Animations:
 Demo-1: To create Schema from mysql CLI: https://drive.google.com/file/d/1L05jBwdA4OMIOeQ5WCjPDkn7vP8h9amv/view?usp=sharing
-
+Demo-2: Ran Seeds:                    :  https://drive.google.com/file/d/1Zz2X9Hcjsieqt3KVgFsD9DLFStzBH-Dj/view
 •	Create Schema and Seed data
 •	GET routes to return all categories, all products
 •	GET routes to return a single category, a single product, and a single tag
