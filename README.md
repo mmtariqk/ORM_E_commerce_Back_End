@@ -52,15 +52,9 @@ https://drive.google.com/file/d/1sa9BvL1GXwDFwJ5gb_G3YhWY_z1DxyAw/view
 
 
 Demo-5: Performed HTTP Methods i.e. POST, PUT, and DELETE routes for Tags:
-file:///Users/tariq/Downloads/Untitled_%20May%205,%202021%201_16%20AM.webm
 
+https://drive.google.com/file/d/17CGLkXvo6BRhgg8KRfLx_m68LD8gcwxv/view?usp=sharing
 
-•	Create Schema and Seed data
-•	GET routes to return all categories, all products
-•	GET routes to return a single category, a single product, and a single tag
-•	POST, PUT, and DELETE routes for categories
-•	POST, PUT, and DELETE routes for Tags
-•	POST, PUT, and DELETE routes for products
 
 ## Screenshots
 Created Schema from mysql Shell:
