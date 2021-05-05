@@ -41,8 +41,9 @@ Demo-2: Seed Data:                 :  https://drive.google.com/file/d/1Zz2X9Hcjs
 •	POST, PUT, and DELETE routes for products
 
 ## Screenshots
-
+Created Schema from mysql Shell:
 <img width="1358" alt="Screen Shot 2021-05-04 at 12 29 28 AM" src="https://user-images.githubusercontent.com/77028806/116972491-eea3ed80-ac6f-11eb-8d15-1847156e4440.png">
 
+Seed Data:
 <img width="1249" alt="run-seeds" src="https://user-images.githubusercontent.com/77028806/117103517-58cf9780-ad2f-11eb-8ddf-8fbb791d8b8d.png">
 
