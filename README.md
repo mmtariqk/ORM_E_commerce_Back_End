@@ -47,3 +47,12 @@ Created Schema from mysql Shell:
 Seed Data:
 <img width="1249" alt="run-seeds" src="https://user-images.githubusercontent.com/77028806/117103517-58cf9780-ad2f-11eb-8ddf-8fbb791d8b8d.png">
 
+Got All Categories:
+<img width="1080" alt="Screen Shot 2021-05-04 at 11 28 33 PM" src="https://user-images.githubusercontent.com/77028806/117104470-0abb9380-ad31-11eb-98e2-005b77fd8ff2.png">
+
+Got All Products:
+<img width="788" alt="Screen Shot 2021-05-04 at 11 30 06 PM" src="https://user-images.githubusercontent.com/77028806/117104498-16a75580-ad31-11eb-839e-6efc1c45ee3b.png">
+
+Got All Tags:
+<img width="788" alt="Screen Shot 2021-05-04 at 11 30 56 PM" src="https://user-images.githubusercontent.com/77028806/117104523-2161ea80-ad31-11eb-8a65-3db9c6cedbe2.png">
+
